@@ -325,7 +325,7 @@
     .hero-form .btn{width:100%}
   }
 </style>
-<script>try{navigator.sendBeacon("https://worker-production-c1cb.up.railway.app/api/hit?src=wl")}catch(e){}</script>
+<script>try{var _s=(new URLSearchParams(location.search).get("src")||"").toLowerCase().replace(/[^a-z0-9_-]/g,"").slice(0,12);navigator.sendBeacon("https://worker-production-c1cb.up.railway.app/api/hit?src="+(_s?"wl_"+_s:"wl"))}catch(e){}</script>
 </head>
 <body>
 
