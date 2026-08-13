@@ -648,5 +648,19 @@
 })();
 </script>
 
+<script>
+(function(){try{
+var ks=["utm_source","utm_medium","utm_campaign","utm_content","src","fbclid"];
+var q=new URLSearchParams(location.search),got={};
+ks.forEach(function(k){var v=q.get(k);if(v)got[k]=v.slice(0,120)});
+if(Object.keys(got).length){got._first_seen=new Date().toISOString().slice(0,16);
+localStorage.setItem("tt_utm",JSON.stringify(got));}
+var sv={};try{sv=JSON.parse(localStorage.getItem("tt_utm")||"{}")}catch(e){}
+document.querySelectorAll("form").forEach(function(f){
+Object.keys(sv).forEach(function(k){
+if(!f.querySelector('input[name="'+k+'"]')){var i=document.createElement("input");
+i.type="hidden";i.name=(k[0]==="_"?"utm"+k:k);i.value=sv[k];f.appendChild(i);}})});
+}catch(e){}})();
+</script>
 </body>
 </html>
