@@ -95,20 +95,8 @@
     {
       "id": "hero",
       "path": "img/anzeigeohnegrund/hero.jpg",
-      "caption_ru": "Композиция на плече и груди",
-      "caption_en": "Composition across shoulder and chest"
-    },
-    {
-      "id": "anatomy",
-      "path": "img/anzeigeohnegrund/anatomy.jpg",
-      "caption_ru": "Разработка композиции прямо на коже",
-      "caption_en": "Developing the composition directly on the skin"
-    },
-    {
-      "id": "hands",
-      "path": "img/anzeigeohnegrund/hands.jpg",
-      "caption_ru": "Орнаментальные композиции на кистях",
-      "caption_en": "Ornamental compositions on the hands"
+      "caption_ru": "Орнаментальные татуировки на женских кистях с длинным маникюром",
+      "caption_en": "Ornamental tattoos on women’s hands with long manicured nails"
     },
     {
       "id": "feet",
@@ -117,10 +105,22 @@
       "caption_en": "Composition on the lower leg and foot"
     },
     {
-      "id": "finished",
-      "path": "img/anzeigeohnegrund/finished.jpg",
-      "caption_ru": "Та же композиция на кисти после нанесения",
-      "caption_en": "The same hand composition after tattooing"
+      "id": "anatomy",
+      "path": "img/anzeigeohnegrund/anatomy.jpg",
+      "caption_ru": "Разработка композиции прямо на коже",
+      "caption_en": "Developing the composition directly on the skin"
+    },
+    {
+      "id": "detail",
+      "path": "img/anzeigeohnegrund/detail.jpg",
+      "caption_ru": "Деталь татуировки на плече",
+      "caption_en": "Detail of the shoulder tattoo"
+    },
+    {
+      "id": "shoulder",
+      "path": "img/anzeigeohnegrund/shoulder.jpg",
+      "caption_ru": "Композиция на плече и груди",
+      "caption_en": "Composition across shoulder and chest"
     },
     {
       "id": "process",
@@ -129,10 +129,10 @@
       "caption_en": "Drawing on the skin before tattooing"
     },
     {
-      "id": "detail",
-      "path": "img/anzeigeohnegrund/detail.jpg",
-      "caption_ru": "Деталь татуировки на плече",
-      "caption_en": "Detail of the shoulder tattoo"
+      "id": "finished",
+      "path": "img/anzeigeohnegrund/finished.jpg",
+      "caption_ru": "Та же композиция на кисти после нанесения",
+      "caption_en": "The same hand composition after tattooing"
     }
   ],
   "ai_voice_or_video_in_article": false,
