@@ -1,0 +1,140 @@
+{
+  "schema_version": 1,
+  "slug": "anzeigeohnegrund",
+  "series": {
+    "ru": "Уникальный стиль со всего мира",
+    "en": "Unique Styles from Around the World"
+  },
+  "artist": {
+    "display_name": "anzeigeohnegrund",
+    "instagram_url": "https://www.instagram.com/anzeigeohnegrund/",
+    "studio": "Glocks and Flowers",
+    "city": "Münster"
+  },
+  "title": {
+    "ru": "Тело задаёт линию",
+    "en": "The body guides the line"
+  },
+  "original_questions_available": false,
+  "headings_are_editorial": true,
+  "answers": [
+    {
+      "id": 1,
+      "heading_ru": "Путь в татуировку",
+      "en": "Without realizing it, I had been preparing for this career from an early age. I started drawing very young and have always loved working with my hands. When I first discovered tattooing, I knew it brought together everything I was passionate about. It was immediately clear to me that this was what I wanted to build my life around.",
+      "ru": "Не осознавая этого, я готовился к этой профессии с раннего возраста. Я начал рисовать совсем маленьким и всегда любил работать руками. Когда я открыл для себя татуировку, то понял, что в ней соединилось всё, чем я увлекался. Мне сразу стало ясно: именно вокруг этого я хочу построить свою жизнь."
+    },
+    {
+      "id": 2,
+      "heading_ru": "Название стиля",
+      "en": "Cybersigilism is an umbrella term often used to describe these forms. My own style combines elements from various styles, but I use the term because it helps people understand and place my work.",
+      "ru": "Киберсигилизм — общее название, которым часто описывают такие формы. В моём собственном стиле соединяются элементы разных направлений, но я использую этот термин, потому что он помогает людям понять мои работы и найти для них контекст."
+    },
+    {
+      "id": 3,
+      "heading_ru": "Контраст и глубина",
+      "en": "I like working with strong contrast and shading to give the shapes depth and a slightly realistic touch. I think that’s what creates the effect you’re describing.",
+      "ru": "Мне нравится работать с сильным контрастом и тенями: они придают формам глубину и немного реалистичности. Думаю, именно это создаёт эффект, который вы описываете."
+    },
+    {
+      "id": 4,
+      "heading_ru": "Анатомия и движение",
+      "en": "Over the years, I’ve spent a lot of time studying human anatomy and the way muscles flow through the body. I find it most visually appealing when a design mainly follows those lines, with a few deliberate breaks, so that it flows naturally with the body as it moves. I often enjoy working freehand, adapting the design directly to the shape of the muscles. But even when I draw a design on my iPad and apply it as a stencil, I always keep that anatomy and movement in mind.",
+      "ru": "За эти годы я много времени посвятил изучению анатомии человека и тому, как мышечные линии проходят по телу. Мне больше всего нравится, когда рисунок в основном следует этим линиям, с несколькими намеренными отступлениями: тогда он естественно сочетается с телом в движении. Я часто работаю фрихендом, подстраивая рисунок прямо под форму мышц. Но даже когда я рисую эскиз на iPad и переношу его через трансфер, всё равно держу в голове анатомию и движение."
+    },
+    {
+      "id": 5,
+      "heading_ru": "От блэкворка к тонкой линии",
+      "en": "It wasn’t one particular project, but a gradual evolution. My earlier blackwork relied heavily on solid black areas. Over time, my love for fine, clean lines became part of that approach. I still want to keep those bold black elements, but combine them with more delicate linework. Other artists have inspired me along the way, while I’ve continued to develop my own visual language.",
+      "ru": "Это произошло постепенно, а не благодаря какому-то одному проекту. В моём раннем блэкворке большую роль играли плотные чёрные заливки. Со временем к этому подходу добавилась моя любовь к тонким, чистым линиям. Мне по-прежнему хочется сохранять выразительные чёрные элементы, но сочетать их с более деликатной линейной работой. На этом пути меня вдохновляли другие художники, а я продолжал развивать собственный визуальный язык."
+    },
+    {
+      "id": 6,
+      "heading_ru": "Фрихенд и эскиз",
+      "en": "I enjoy both approaches. For larger projects where a single design flows across several parts of the body, I especially like working freehand. In the future, I’d like to focus primarily on that process. Sometimes I’ll sketch a rough version on my iPad first and keep it beside me as a reference while drawing directly on the skin.",
+      "ru": "Мне нравятся оба подхода. В больших проектах, где единая композиция проходит через несколько частей тела, я особенно люблю работать фрихендом. В будущем я хотел бы сосредоточиться прежде всего на этом процессе. Иногда сначала делаю приблизительный набросок на iPad, а потом держу его рядом как ориентир, пока рисую непосредственно на коже."
+    },
+    {
+      "id": 7,
+      "heading_ru": "Своя студия и местная сцена",
+      "en": "My studio and the artists on my team are quite alternative compared to much of the local tattoo scene. Münster is a university city with a lot of young people, but in my experience, the local tattoo scene is more traditionally oriented. Being in that environment made me realise I wanted to create space for the kind of tattooing that personally excites me. As a team, we’re exploring a more contemporary direction and opening up room for different approaches. We respect traditional tattooing and see our work as adding another branch to the local scene.",
+      "ru": "Моя студия и мастера в моей команде довольно альтернативные на фоне значительной части местной тату-сцены. Мюнстер — университетский город, где много молодых людей, но, по моему опыту, местная тату-сцена больше ориентирована на традиционные направления. Именно в этой среде я понял, что хочу создать пространство для той татуировки, которая увлекает лично меня. Вместе с командой мы исследуем более современное направление и даём место разным подходам. Мы уважаем традиционную татуировку и видим свою работу как ещё одну ветвь местной сцены."
+    },
+    {
+      "id": 8,
+      "heading_ru": "Самые личные работы",
+      "en": "It’s difficult to choose just one, because every piece has helped me develop my own style. But my recent hand and foot tattoos stand out to me. They feel the closest to my own visual identity, and seeing people respond so positively to them online has meant a lot.\n\nWith those projects, I made a conscious decision to trust my own ideas and bring something to life that had previously only existed in my head. They combine influences from different styles I’ve grown to love over the years. I’m particularly drawn to the layered effect, where elements appear to overlap like a blast-over tattoo. That interplay captures a lot of what I love about tattooing, and these pieces feel especially personal because of it.",
+      "ru": "Сложно выбрать одну работу: каждая помогала мне развивать свой стиль. Но особенно выделяются мои недавние татуировки на кистях и стопах. Мне кажется, они ближе всего к моему собственному визуальному языку, и положительная реакция людей в интернете много для меня значит.\n\nВ этих проектах я сознательно решил довериться собственным идеям и воплотить то, что прежде существовало только у меня в голове. Они соединяют влияния разных стилей, которые я полюбил за эти годы. Особенно меня привлекает многослойность: элементы как будто перекрывают друг друга, как в татуировке бластовер. Это взаимодействие воплощает многое из того, что я люблю в татуировке, и поэтому эти работы для меня особенно личные."
+    },
+    {
+      "id": 9,
+      "heading_ru": "Тёмная эстетика и изящество",
+      "en": "I’ve always been drawn to darker aesthetics, whether in fashion, illustration, or tattooing. Strong contrast is a big part of that, but what interests me most is combining that darkness with something delicate and elegant. That’s what draws me to this mix: bold, sharp forms alongside intricate ornamentation. There’s a tension between the two, almost like a balance between good and evil, that runs through a lot of my work.",
+      "ru": "Меня всегда привлекала тёмная эстетика — в моде, иллюстрации и татуировке. Сильный контраст играет в ней большую роль, но больше всего мне интересно соединять эту мрачность с чем-то тонким и элегантным. Именно это меня и притягивает: смелые, острые формы рядом со сложным орнаментом. Между ними есть напряжение, почти как равновесие добра и зла, которое проходит через многие мои работы."
+    },
+    {
+      "id": 10,
+      "heading_ru": "Технические сложности",
+      "en": "The biggest technical challenge is keeping the fine details clean while making sure the tattoo still reads clearly from a distance. Up close, I want people to discover the smaller details, but from further away, it should still hold together as a strong shape that flows with the body.\n\nWhen I work with a stencil, one practical challenge is keeping those tiny details visible as I work. I usually tattoo the finer elements first, before the stencil fades or gets wiped away, and then move on to the bolder sections. I also leave room to adjust or develop elements directly on the skin. For me, it’s about precision without losing the natural flow of the piece.",
+      "ru": "Самая большая техническая сложность — сохранить тонкие детали чистыми и при этом добиться, чтобы татуировка хорошо читалась на расстоянии. Вблизи мне хочется, чтобы люди находили небольшие детали, а издалека работа должна по-прежнему собираться в сильную цельную форму, которая следует телу.\n\nПри работе с трансфером одна из практических задач — сохранять видимость этих мелких деталей по ходу сеанса. Обычно я сначала делаю тонкие элементы, пока трансфер не побледнел или не стёрся, а затем перехожу к более массивным участкам. Я также оставляю возможность что-то скорректировать или развить непосредственно на коже. Для меня это точность, которая не нарушает естественного движения композиции."
+    },
+    {
+      "id": 11,
+      "heading_ru": "ИИ и авторский язык",
+      "en": "AI doesn’t particularly worry me. For me, the most meaningful part of creating art comes from human imagination and personal experience. I can see AI being useful as a practical tool, especially for tasks that are less creatively engaging, and I’m open to that.\n\nBut I wouldn’t want to rely on it to define my artistic direction. These systems learn from existing work, and my concern is that relying on them too much could bring me closer to someone else’s visual language rather than helping me develop my own. I want the ideas behind my tattoos to come from me and to contribute something personal.",
+      "ru": "ИИ меня не особенно тревожит. Для меня самая значимая часть создания искусства рождается из человеческого воображения и личного опыта. Я вижу, что ИИ может быть полезен как практический инструмент, особенно в задачах, где меньше творческой вовлечённости, и я к этому открыт.\n\nНо я не хотел бы полагаться на него при выборе своего художественного направления. Эти системы учатся на существующих работах, и меня беспокоит, что чрезмерная опора на них может приблизить меня к чужому визуальному языку вместо того, чтобы помочь развивать собственный. Я хочу, чтобы идеи моих татуировок исходили от меня и привносили что-то личное."
+    },
+    {
+      "id": 12,
+      "heading_ru": "Совет о поиске своего стиля",
+      "en": "Start by looking inward. Pay attention to what draws you in—not just in art, but in people, experiences, and everything you’ve connected with over the years. Ask yourself what those influences mean to you and what they reveal about who you are.\n\nEveryone takes inspiration from somewhere. Finding your own visual language comes from processing those influences through your own personality, rather than simply reproducing them. Bring them together, experiment, and let your own perspective shape the result. I think that’s how something personal emerges: a way of seeing and expressing things that only you could arrive at.",
+      "ru": "Начните с того, чтобы заглянуть внутрь себя. Обратите внимание на то, что вас привлекает: не только в искусстве, но и в людях, переживаниях и во всём, с чем вы чувствовали связь на протяжении жизни. Спросите себя, что эти влияния для вас значат и что они говорят о вас самих.\n\nКаждый откуда-то черпает вдохновение. Собственный визуальный язык появляется, когда вы пропускаете эти влияния через свою личность, а не просто воспроизводите их. Соединяйте их, экспериментируйте и позволяйте своему взгляду определять результат. Думаю, так и возникает что-то личное: способ видеть и выражать вещи, к которому могли прийти только вы."
+    }
+  ],
+  "images": [
+    {
+      "id": "hero",
+      "path": "img/anzeigeohnegrund/hero.jpg",
+      "caption_ru": "Композиция на плече и груди",
+      "caption_en": "Composition across shoulder and chest"
+    },
+    {
+      "id": "anatomy",
+      "path": "img/anzeigeohnegrund/anatomy.jpg",
+      "caption_ru": "Разработка композиции прямо на коже",
+      "caption_en": "Developing the composition directly on the skin"
+    },
+    {
+      "id": "hands",
+      "path": "img/anzeigeohnegrund/hands.jpg",
+      "caption_ru": "Орнаментальные композиции на кистях",
+      "caption_en": "Ornamental compositions on the hands"
+    },
+    {
+      "id": "feet",
+      "path": "img/anzeigeohnegrund/feet.jpg",
+      "caption_ru": "Композиция на голени и стопе",
+      "caption_en": "Composition on the lower leg and foot"
+    },
+    {
+      "id": "finished",
+      "path": "img/anzeigeohnegrund/finished.jpg",
+      "caption_ru": "Та же композиция на кисти после нанесения",
+      "caption_en": "The same hand composition after tattooing"
+    },
+    {
+      "id": "process",
+      "path": "img/anzeigeohnegrund/process.jpg",
+      "caption_ru": "Рисунок на коже перед нанесением татуировки",
+      "caption_en": "Drawing on the skin before tattooing"
+    },
+    {
+      "id": "detail",
+      "path": "img/anzeigeohnegrund/detail.jpg",
+      "caption_ru": "Деталь татуировки на плече",
+      "caption_en": "Detail of the shoulder tattoo"
+    }
+  ],
+  "ai_voice_or_video_in_article": false,
+  "migration_note": "Content and image paths are independent from GitHub hosting. Preserve answer IDs and language fields; remap img paths on the main website."
+}
